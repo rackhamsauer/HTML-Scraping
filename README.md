@@ -1,1 +1,2 @@
 # HTML-Scraping
+This assignment was entertaining because I got to web scrape data. I used previous assignments, stack overflow, and chat gpt to work through this. The plots were the hardest bit to get through, but was able to make that with quite a few groupbys. 
